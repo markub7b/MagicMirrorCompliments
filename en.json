@@ -2,20 +2,20 @@
         "anytime" : [
                 "Dnes vyzeráš skvelo!",
                 "Dnes je úžasný deň!",
-                "Robíš rozdiel.",
+                "Robíš pokrok.",
                 "Krásny úsmev pre krásny deň",
                 "Ešte stále sa díváš do zrkadla?",
-                "Zrkadlo hovorí: 'ahoj'"
+                "Zrkadielko ,zrkadielko kto je najkrajší? "
         ],
         "morning" : [
                 "Tvoje vlasy sú dnes skvelé!",
                 "Začni deň s úsmevom",
                 "Bude to krásny deň!",
-                "Nie je deň úžasný?",
+                "Taký pekný deň, prečo neurobiť niečo zaujímavé?",
                 "Priprav sa na skvelý deň!"
         ],
         "afternoon" : [
-                "Práve dokončuješ prácu...",
+                "Už máš konečne voľný čas po práci.",
                 "Popoludnie, nie ráno, nie poludnie",
                 "Tento deň je skvelý",
                 "Už je skoro čas na večeru!"
@@ -23,7 +23,7 @@
         "evening" : [
                 "Len niekoľko telefonátov treba urobiť...",
                 "Dobrú chuť",
-                "Oddychuj, úžasne",
+                "Oddychuj, sladko",
                 "Urobil si dnes niečo užitočné?",
                 "Chutilo ti jedlo?"
 
