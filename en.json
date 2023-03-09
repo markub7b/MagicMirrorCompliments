@@ -15,16 +15,20 @@
                 "Priprav sa na skvelý deň!"
         ],
         "afternoon" : [
-                "Just finishing your work...",
-                "Afternoon, not morning, not noon",
-                "This day is great",
-                "Almost dinnertime!"
+                "Práve dokončuješ prácu...",
+                "Popoludnie, nie ráno, nie poludnie",
+                "Tento deň je skvelý",
+                "Už je skoro čas na večeru!"
         ],
         "evening" : [
-                "Just a few calls to make...",
-                "Bon appétit",
-                "Rest, awesome",
-                "You made the difference",
-                "Did you like your food?"
+                "Len niekoľko telefonátov treba urobiť...",
+                "Dobrú chuť",
+                "Oddychuj, úžasne",
+                "Urobil si dnes niečo užitočné?",
+                "Chutilo ti jedlo?"
+
+
+
+
         ]
 }
